@@ -4,7 +4,7 @@ This tutorial outlines the steps and installation of a virtual machine using Mic
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
+- ### [Creating a Virtual Machine in Azure](https://clipchamp.com/watch/aJXukDOnyE0)
 
 <h2>Environments and Technologies Used</h2>
 
