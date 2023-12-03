@@ -21,7 +21,7 @@ This tutorial outlines the steps and installation of a virtual machine using Mic
 
 <h2>Installation Steps</h2>
 
-First from the Azure home you'll eitther select Virtual Machines from the Azure services list or use the search bar to locate and select Virtual Machines.
+First from the Azure home you'll either select Virtual Machines from the Azure services list or use the search bar to locate and select Virtual Machines.
 
 ![image](https://github.com/oraljr/vm-setup/assets/152557529/9cb229b9-9141-447a-9b34-4b58359ef21e)
 
@@ -37,7 +37,7 @@ Then name your VM and choose the Azure region that's right for you and your cust
 
 ![image](https://github.com/oraljr/vm-setup/assets/152557529/c5aa3d56-4387-4d52-a2f5-3928f9f6c54e)
 
-Once your image is chosen, select a VM size to support the workload that you want to run. The size you choose will determines factors such as processing power, memory, speed and storage capacity. Azure offers a myriad sizes to support different types of uses at varying hourly prices.
+Once your image is chosen, select a VM size to support the workload that you want to run. The size you choose will determines factors such as processing power, memory, speed and storage capacity. Azure offers a myriad of sizes to support different types of uses at varying hourly prices.
 
 ![image](https://github.com/oraljr/vm-setup/assets/152557529/a6131cba-66fa-4645-92bd-acf0adb2c17b)
 
