@@ -41,3 +41,13 @@ Once your image is chosen, select a VM size to support the workload that you wan
 
 ![image](https://github.com/oraljr/vm-setup/assets/152557529/a6131cba-66fa-4645-92bd-acf0adb2c17b)
 
+Next you'll create an Administrator account. You'll use this account to log in to your VM. Before you finish check the Licensing box and finally on the bottom left of the page select Review & create. On the following page the site will review all your credentials and if your validation passes, you can select create and deploy your virtual machine.
+
+![image](https://github.com/oraljr/vm-setup/assets/152557529/026025c8-945d-4632-8dde-87c4edd754b2)
+
+The site will let you know when your VM is finished deploying and you're done! You did it!
+
+![image](https://github.com/oraljr/vm-setup/assets/152557529/20719980-2ff6-4309-9e9d-0986b99ab483)
+
+
+
