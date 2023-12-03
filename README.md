@@ -27,12 +27,17 @@ First from the Azure home you'll eitther select Virtual Machines from the Azure 
 
 Next, on the Virtual machine page, you'll select 'Create' and from the drop down menu you'll select Azure Virtual Machine.
 
-![image](https://github.com/oraljr/vm-setup/assets/152557529/bbc4fd7b-4170-4476-a358-34e8f69c72d8)
-
+![image](https://github.com/oraljr/vm-setup/assets/152557529/33eb7e3b-2c70-4229-8e44-b5d958bab1ea)
 
 On the next page you'll select a resource group to house your virtual machine
 
-ASDFGHJKL;
+![image](https://github.com/oraljr/vm-setup/assets/152557529/d14fc138-be87-4260-bf65-a5b7ef5a0bb8)
 
-Then name you VM and choose the Azure region that's right for you and your customers. Keep in mind the not all VM sizes are available in all regions.
+Then name your VM and choose the Azure region that's right for you and your customers. Keep in mind the not all VM sizes are available in all regions. After that, set your security type to standard. Next you'll choose the base operating system or application for the VM.
+
+![image](https://github.com/oraljr/vm-setup/assets/152557529/c5aa3d56-4387-4d52-a2f5-3928f9f6c54e)
+
+Once your image is chosen, select a VM size to support the workload that you want to run. The size you choose will determines factors such as processing power, memory, speed and storage capacity. Azure offers a myriad sizes to support different types of uses at varying hourly prices.
+
+![image](https://github.com/oraljr/vm-setup/assets/152557529/a6131cba-66fa-4645-92bd-acf0adb2c17b)
 
