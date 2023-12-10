@@ -1,3 +1,10 @@
+<p align="center"> 
+  
+  ![image](https://github.com/oraljr/vm-setup/assets/152557529/47e99680-3bde-4a0a-832d-ab4d94dabde2)
+
+</p>
+
+
 <h1>Azure - Creating a Virtual Machine</h1>
 This tutorial outlines the steps and installation of a virtual machine using Microsoft Azure.<br />
 
